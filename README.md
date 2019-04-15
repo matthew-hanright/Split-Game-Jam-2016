@@ -1,4 +1,4 @@
-# Split-Game-Jam
+# Split-Game-Jam-2016
 A puzzle game made for a 48 hour game jam in 2016.
 
 Only the Split.exe is needed to play. <br />
